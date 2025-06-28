@@ -1,0 +1,5 @@
+[Unit]
+Description=Crawl back to sleep for GPD WM2
+
+[Service]
+ExecStart=/usr/local/bin/gpd-wm2-crawl-back-to-sleep
